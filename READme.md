@@ -1,4 +1,5 @@
 A full-stack web application for managing tasks using Odoo as a backend and a responsive Bootstrap-based frontend.
+
 🔐 Authentication System: Users can securely log in using their credentials via a custom API (/api/auth/login) with token-based authentication.
 
 ✅ Protected Routes: Only authenticated users can access the dashboard and create tasks.
